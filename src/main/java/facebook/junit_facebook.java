@@ -20,8 +20,8 @@ public class junit_facebook {
 	}
 	@Test
 	public void loginpage() throws InterruptedException {
-		driver.findElement(By.name("email")).sendKeys("yadhu.adhikari@yahoo.com");
-		driver.findElement(By.name("pass")).sendKeys("Family@3366");
+		driver.findElement(By.name("email")).sendKeys("kijuuri@yahoo.com");
+		driver.findElement(By.name("pass")).sendKeys("jujjhhhhh6");
 		driver.findElement(By.name("login")).click();
 		Thread.sleep(3000);
 	}
