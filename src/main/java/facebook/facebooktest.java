@@ -23,8 +23,8 @@ public class facebooktest {
 	}
 	
 	public static void loginpage() throws InterruptedException {
-		driver.findElement(By.name("email")).sendKeys("yadhu.adhikari@yahoo.com");
-		driver.findElement(By.name("pass")).sendKeys("Family@3366");
+		driver.findElement(By.name("email")).sendKeys("kjuhhhhi@yahoo.com");
+		driver.findElement(By.name("pass")).sendKeys("Fkihjhuhg");
 		driver.findElement(By.name("login")).click();
 		Thread.sleep(2000);
 	}
